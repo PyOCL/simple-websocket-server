@@ -5,14 +5,9 @@
 - Passes Autobahns Websocket Testsuite
 - Support for Python 2 and 3
 
-#### Installation
-
-You can install SimpleWebSocketServer by running the following command...
-
-`sudo pip install git+https://github.com/dpallot/simple-websocket-server.git`
-
-Or by downloading the repository and running `sudo python setup.py install`.  
-Installation via pip is suggested.
+#### Original author & repository
+- Dave P.
+- https://github.com/dpallot/simple-websocket-server.git
 
 #### Echo Server Example
 `````python
